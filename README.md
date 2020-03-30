@@ -8,4 +8,4 @@ For more information on the virus please visit https://www.who.int/emergencies/d
 
 DATA SOURCE: Fetching the updated COVID-19 data from https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series. The data contains the number of confirmed, expired (dead), and recovered cases, location and date wise. 
 
-GO THROUGH EXPERIMENT: Please open the Covid-19_Visualisation_Forecast.ipynb file to visualise the experiment.
+GO THROUGH THE EXPERIMENT: Please open the Covid-19_Visualisation_Forecast.ipynb file to visualise the experiment.
